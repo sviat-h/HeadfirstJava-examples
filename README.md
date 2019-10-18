@@ -1,2 +1,2 @@
 # headfirst-java-examples
-Examples from the book head first java..
+Examples from the book head first java...
