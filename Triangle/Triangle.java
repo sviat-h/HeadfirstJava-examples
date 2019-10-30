@@ -1,4 +1,5 @@
 package Triangle;
+
 class Triangle {
     double area;
     int height;
